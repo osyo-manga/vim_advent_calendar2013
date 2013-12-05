@@ -23,7 +23,7 @@ h2. 今月のスケジュール
 |02|12/02(月)|@25kei12|"Emacsいじめの現場 – cronでやってみる":http://jre655.com/2013/12/03/emacs%E3%81%84%E3%81%98%E3%82%81%E3%81%AE%E7%8F%BE%E5%A0%B4-cron%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B/|
 |03|12/03(火)|@rbtnn|"vital.vimをどんどん使っていこう。":http://qiita.com/rbtnn/items/deb569ebc94d5172a5e5|
 |04|12/04(水)|@kefir_|"Vimで画像を見る（DRCSのSIXEL拡張の話）":http://qiita.com/kefir_/items/78e64c545a70a0ebea8a|
-|05|12/05(木)|@supermomonga||
+|05|12/05(木)|@supermomonga|"Vimによる通知センター実装、ThingsPast.vimをリリースしました":http://blog.supermomonga.com/articles/vim/thingspast-vim-released.html|
 |06|12/06(金)|@kaoriya||
 |07|12/07(土)|@mattn||
 |08|12/08(日)|@dice_zu||
