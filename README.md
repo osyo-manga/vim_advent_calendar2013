@@ -24,8 +24,8 @@ h2. 今月のスケジュール
 |03|12/03(火)|@rbtnn|"vital.vimをどんどん使っていこう。":http://qiita.com/rbtnn/items/deb569ebc94d5172a5e5|
 |04|12/04(水)|@kefir_|"Vimで画像を見る（DRCSのSIXEL拡張の話）":http://qiita.com/kefir_/items/78e64c545a70a0ebea8a|
 |05|12/05(木)|@supermomonga|"Vimによる通知センター実装、ThingsPast.vimをリリースしました":http://blog.supermomonga.com/articles/vim/thingspast-vim-released.html|
-|06|12/06(金)|@kaoriya||
-|07|12/07(土)|@mattn||
+|06|12/06(金)|@kaoriya|"正しいVimのロゴ":http://www.kaoriya.net/blog/2013/12/06/|
+|07|12/07(土)|@mattn|"Vim script は人々の生活を豊かにしなければならないッ！":http://mattn.kaoriya.net/software/vim/20131206144325.htm|
 |08|12/08(日)|@dice_zu||
 |09|12/09(月)|@Linda_pp||
 |10|12/10(火)|@alpaca_taichou||
