@@ -26,7 +26,7 @@ h2. 今月のスケジュール
 |05|12/05(木)|@supermomonga|"Vimによる通知センター実装、ThingsPast.vimをリリースしました":http://blog.supermomonga.com/articles/vim/thingspast-vim-released.html|
 |06|12/06(金)|@kaoriya|"正しいVimのロゴ":http://www.kaoriya.net/blog/2013/12/06/|
 |07|12/07(土)|@mattn|"Vim script は人々の生活を豊かにしなければならないッ！":http://mattn.kaoriya.net/software/vim/20131206144325.htm|
-|08|12/08(日)|@dice_zu||
+|08|12/08(日)|@dice_zu|"Fabricで最新のVimをバラまく":http://daisuzu.hatenablog.com/entry/2013/12/08/000610|
 |09|12/09(月)|@Linda_pp||
 |10|12/10(火)|@alpaca_taichou||
 |11|12/11(水)|@ne_sachirou||
