@@ -27,7 +27,7 @@ h2. 今月のスケジュール
 |06|12/06(金)|@kaoriya|"正しいVimのロゴ":http://www.kaoriya.net/blog/2013/12/06/|
 |07|12/07(土)|@mattn|"Vim script は人々の生活を豊かにしなければならないッ！":http://mattn.kaoriya.net/software/vim/20131206144325.htm|
 |08|12/08(日)|@dice_zu|"Fabricで最新のVimをバラまく":http://daisuzu.hatenablog.com/entry/2013/12/08/000610|
-|09|12/09(月)|@Linda_pp||
+|09|12/09(月)|@Linda_pp|"無数のパッチを組み合わせて君だけの MacVim を作ろう！":http://rhysd.hatenablog.com/entry/2013/12/09/001219|
 |10|12/10(火)|@alpaca_taichou||
 |11|12/11(水)|@ne_sachirou||
 |12|12/12(木)|@mopp_jp||
