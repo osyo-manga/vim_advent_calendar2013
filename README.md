@@ -1,3 +1,6 @@
+TOP絵は "@orga_chem":https://twitter.com/orga_chem さんに書いていただきました。
+
+
 h4. Vim Advent Calendar を今年もやりたいと思います！！
 去年の内容は "こちら":http://atnd.org/events/33746 を参照して下さい。
 
@@ -28,7 +31,7 @@ h2. 今月のスケジュール
 |07|12/07(土)|@mattn|"Vim script は人々の生活を豊かにしなければならないッ！":http://mattn.kaoriya.net/software/vim/20131206144325.htm|
 |08|12/08(日)|@dice_zu|"Fabricで最新のVimをバラまく":http://daisuzu.hatenablog.com/entry/2013/12/08/000610|
 |09|12/09(月)|@Linda_pp|"無数のパッチを組み合わせて君だけの MacVim を作ろう！":http://rhysd.hatenablog.com/entry/2013/12/09/001219|
-|10|12/10(火)|@alpaca_taichou||
+|10|12/10(火)|@alpaca_taichou|"NeoComplete vs YouCompleteMe":http://alpaca-tc.github.io/blog/vim/neocomplete-vs-youcompleteme.html|
 |11|12/11(水)|@ne_sachirou||
 |12|12/12(木)|@mopp_jp||
 |13|12/13(金)|@kumack55||
