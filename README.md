@@ -32,8 +32,8 @@ h2. 今月のスケジュール
 |08|12/08(日)|@dice_zu|"Fabricで最新のVimをバラまく":http://daisuzu.hatenablog.com/entry/2013/12/08/000610|
 |09|12/09(月)|@Linda_pp|"無数のパッチを組み合わせて君だけの MacVim を作ろう！":http://rhysd.hatenablog.com/entry/2013/12/09/001219|
 |10|12/10(火)|@alpaca_taichou|"NeoComplete vs YouCompleteMe":http://alpaca-tc.github.io/blog/vim/neocomplete-vs-youcompleteme.html|
-|11|12/11(水)|@ne_sachirou||
-|12|12/12(木)|@mopp_jp||
+|11|12/11(水)|@ne_sachirou|"Vim でoutline editorを演じる (n度目)":http://c4se.hatenablog.com/entry/2013/12/11/215853|
+|12|12/12(木)|@mopp_jp|"つくったVim PluginとつかったVim scriptのはなし":http://ac-mopp.blogspot.jp/2013/12/vim-pluginvim-script.html|
 |13|12/13(金)|@kumack55||
 |14|12/14(土)|@joker1007||
 |15|12/15(日)|@deris0126||
