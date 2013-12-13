@@ -34,7 +34,7 @@ h2. 今月のスケジュール
 |10|12/10(火)|@alpaca_taichou|"NeoComplete vs YouCompleteMe":http://alpaca-tc.github.io/blog/vim/neocomplete-vs-youcompleteme.html|
 |11|12/11(水)|@ne_sachirou|"Vim でoutline editorを演じる (n度目)":http://c4se.hatenablog.com/entry/2013/12/11/215853|
 |12|12/12(木)|@mopp_jp|"つくったVim PluginとつかったVim scriptのはなし":http://ac-mopp.blogspot.jp/2013/12/vim-pluginvim-script.html|
-|13|12/13(金)|@kumack55||
+|13|12/13(金)|@kumack55|"Vim on Android":http://blog.kumack.net/?eid=15|
 |14|12/14(土)|@joker1007||
 |15|12/15(日)|@deris0126||
 |16|12/16(月)|@c0hama||
