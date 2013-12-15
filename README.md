@@ -35,7 +35,7 @@ h2. 今月のスケジュール
 |11|12/11(水)|@ne_sachirou|"Vim でoutline editorを演じる (n度目)":http://c4se.hatenablog.com/entry/2013/12/11/215853|
 |12|12/12(木)|@mopp_jp|"つくったVim PluginとつかったVim scriptのはなし":http://ac-mopp.blogspot.jp/2013/12/vim-pluginvim-script.html|
 |13|12/13(金)|@kumack55|"Vim on Android":http://blog.kumack.net/?eid=15|
-|14|12/14(土)|@joker1007||
+|14|12/14(土)|@joker1007|"webapi-vimとBufWriteCmdでWeb上のリソースをVimで編集する":http://d.hatena.ne.jp/joker1007/20131215/1387085776|
 |15|12/15(日)|@deris0126||
 |16|12/16(月)|@c0hama||
 |17|12/17(火)|@cocopon||
