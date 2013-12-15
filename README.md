@@ -36,7 +36,7 @@ h2. 今月のスケジュール
 |12|12/12(木)|@mopp_jp|"つくったVim PluginとつかったVim scriptのはなし":http://ac-mopp.blogspot.jp/2013/12/vim-pluginvim-script.html|
 |13|12/13(金)|@kumack55|"Vim on Android":http://blog.kumack.net/?eid=15|
 |14|12/14(土)|@joker1007|"webapi-vimとBufWriteCmdでWeb上のリソースをVimで編集する":http://d.hatena.ne.jp/joker1007/20131215/1387085776|
-|15|12/15(日)|@deris0126||
+|15|12/15(日)|@deris0126|"Vimmerなら2013年中に試しておきたい海外産Vim plugin 8選":http://deris.hatenablog.jp/entry/2013/12/15/235606|
 |16|12/16(月)|@c0hama||
 |17|12/17(火)|@cocopon||
 |18|12/18(水)|@yoshikaw||
@@ -50,7 +50,7 @@ h2. 今月のスケジュール
 |26|12/26(木)|@toyamarinyon||
 |27|12/27(金)|@syui||
 |28|12/28(土)|@kobadesu||
-|29|12/29(日)|@||
+|29|12/29(日)|@ujihisa||
 |30|12/30(月)|@||
 |31|12/31(火)|@||
 
