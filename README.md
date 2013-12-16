@@ -1,4 +1,3 @@
-
 TOP絵は "@orga_chem":https://twitter.com/orga_chem さんに書いていただきました。
 
 
@@ -38,7 +37,7 @@ h2. 今月のスケジュール
 |13|12/13(金)|@kumack55|"Vim on Android":http://blog.kumack.net/?eid=15|
 |14|12/14(土)|@joker1007|"webapi-vimとBufWriteCmdでWeb上のリソースをVimで編集する":http://d.hatena.ne.jp/joker1007/20131215/1387085776|
 |15|12/15(日)|@deris0126|"Vimmerなら2013年中に試しておきたい海外産Vim plugin 8選":http://deris.hatenablog.jp/entry/2013/12/15/235606|
-|16|12/16(月)|@c0hama||
+|16|12/16(月)|@c0hama|"fugitive.vim をもっと使いこなす":http://cohama.hateblo.jp/entry/2013/12/17/003353|
 |17|12/17(火)|@cocopon||
 |18|12/18(水)|@yoshikaw||
 |19|12/19(木)|@orga_chem||
