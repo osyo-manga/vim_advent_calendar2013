@@ -38,7 +38,7 @@ h2. 今月のスケジュール
 |14|12/14(土)|@joker1007|"webapi-vimとBufWriteCmdでWeb上のリソースをVimで編集する":http://d.hatena.ne.jp/joker1007/20131215/1387085776|
 |15|12/15(日)|@deris0126|"Vimmerなら2013年中に試しておきたい海外産Vim plugin 8選":http://deris.hatenablog.jp/entry/2013/12/15/235606|
 |16|12/16(月)|@c0hama|"fugitive.vim をもっと使いこなす":http://cohama.hateblo.jp/entry/2013/12/17/003353|
-|17|12/17(火)|@cocopon||
+|17|12/17(火)|@cocopon|"オシャレ派Vimmerのあなたへ。こだわりのカラースキームギャラリーを贈ります。":http://cocopon.me/blog/?p=4059|
 |18|12/18(水)|@yoshikaw||
 |19|12/19(木)|@orga_chem||
 |20|12/20(金)|@s_of_p||
