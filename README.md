@@ -40,7 +40,7 @@ h2. 今月のスケジュール
 |16|12/16(月)|@c0hama|"fugitive.vim をもっと使いこなす":http://cohama.hateblo.jp/entry/2013/12/17/003353|
 |17|12/17(火)|@cocopon|"オシャレ派Vimmerのあなたへ。こだわりのカラースキームギャラリーを贈ります。":http://cocopon.me/blog/?p=4059|
 |18|12/18(水)|@yoshikaw|"サーバ管理に役立つVim技10選":http://yskwkzhr.blogspot.jp/2013/12/10-vim-tips-to-help-the-server-management.html|
-|19|12/19(木)|@orga_chem||
+|19|12/19(木)|@orga_chem|"vim-splashを使い倒してこそ真のVimmerですぞ":http://orgachem.hatenablog.com/entry/2013/12/19/130701|
 |20|12/20(金)|@s_of_p||
 |21|12/21(土)|@harukey2525||
 |22|12/22(日)|@tyru||
