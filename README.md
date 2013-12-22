@@ -44,7 +44,7 @@ h2. 今月のスケジュール
 |20|12/20(金)|@s_of_p|"おさらい autocmd/augroup":http://qiita.com/s_of_p/items/b61e4c3a0c7ee279848a|
 |21|12/21(土)|@harukey2525|"C言語用の.vimrcをつくりたい":http://qiita.com/harukey2525/items/0604c4f00b579d553956|
 |22|12/22(日)|@raa0121|"NeoBundlerを使ってライブラリをライブラリしよう！":http://wp.raa0121.info/2013/12/neobundler.html|
-|23|12/23(月)|@thinca||
+|23|12/23(月)|@thinca|"submode.vim で特定の条件の時だけ submode に入る":http://d.hatena.ne.jp/thinca/20131223/1387734151|
 |24|12/24(火)|@auewe||
 |25|12/25(水)|@ikedahidenori||
 |26|12/26(木)|@toyamarinyon||
