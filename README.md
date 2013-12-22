@@ -43,7 +43,7 @@ h2. 今月のスケジュール
 |19|12/19(木)|@orga_chem|"vim-splashを使い倒してこそ真のVimmerですぞ":http://orgachem.hatenablog.com/entry/2013/12/19/130701|
 |20|12/20(金)|@s_of_p|"おさらい autocmd/augroup":http://qiita.com/s_of_p/items/b61e4c3a0c7ee279848a|
 |21|12/21(土)|@harukey2525|"C言語用の.vimrcをつくりたい":http://qiita.com/harukey2525/items/0604c4f00b579d553956|
-|22|12/22(日)|@tyru||
+|22|12/22(日)|@raa0121|"NeoBundlerを使ってライブラリをライブラリしよう！":http://wp.raa0121.info/2013/12/neobundler.html|
 |23|12/23(月)|@thinca||
 |24|12/24(火)|@auewe||
 |25|12/25(水)|@ikedahidenori||
@@ -51,7 +51,7 @@ h2. 今月のスケジュール
 |27|12/27(金)|@syui||
 |28|12/28(土)|@kobadesu||
 |29|12/29(日)|@t9md||
-|30|12/30(月)|@raa0121||
+|30|12/30(月)|@tyru||
 |31|12/31(火)|@||
 |32|01/01(水)|@ujihisa||
 
