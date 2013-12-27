@@ -46,11 +46,11 @@ h2. 今月のスケジュール
 |22|12/22(日)|@raa0121|"NeoBundlerを使ってライブラリをライブラリしよう！":http://wp.raa0121.info/2013/12/neobundler.html|
 |23|12/23(月)|@thinca|"submode.vim で特定の条件の時だけ submode に入る":http://d.hatena.ne.jp/thinca/20131223/1387734151|
 |24|12/24(火)|@auewe|"quickrunで部分コンパイル (LaTeXが捗る)":http://auewe.hatenablog.com/entry/2013/12/25/033416|
-|25|12/25(水)|@ikedahidenori||
+|25|12/25(水)|@t9md|"私の Vim 活記録":http://d.hatena.ne.jp/t9md/20131227/1388140475|
 |26|12/26(木)|@toyamarinyon|"わたしとvim":http://toyamarinyon.hatenablog.jp/entry/2013/12/27/082910|
 |27|12/27(金)|@syui|"Vim script初心者講座 vol.3":http://mba-hack.blogspot.jp/2013/12/vim-script-vol3.html|
 |28|12/28(土)|@kobadesu||
-|29|12/29(日)|@t9md||
+|29|12/29(日)|@||
 |30|12/30(月)|@tyru||
 |31|12/31(火)|@||
 |32|01/01(水)|@ujihisa||
