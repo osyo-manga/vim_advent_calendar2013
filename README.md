@@ -47,8 +47,8 @@ h2. 今月のスケジュール
 |23|12/23(月)|@thinca|"submode.vim で特定の条件の時だけ submode に入る":http://d.hatena.ne.jp/thinca/20131223/1387734151|
 |24|12/24(火)|@auewe|"quickrunで部分コンパイル (LaTeXが捗る)":http://auewe.hatenablog.com/entry/2013/12/25/033416|
 |25|12/25(水)|@ikedahidenori||
-|26|12/26(木)|@toyamarinyon||
-|27|12/27(金)|@syui||
+|26|12/26(木)|@toyamarinyon|"わたしとvim":http://toyamarinyon.hatenablog.jp/entry/2013/12/27/082910|
+|27|12/27(金)|@syui|"Vim script初心者講座 vol.3":http://mba-hack.blogspot.jp/2013/12/vim-script-vol3.html|
 |28|12/28(土)|@kobadesu||
 |29|12/29(日)|@t9md||
 |30|12/30(月)|@tyru||
