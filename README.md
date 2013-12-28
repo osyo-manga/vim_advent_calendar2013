@@ -11,6 +11,7 @@ h2. 2回目以降の参加を考えている方へ
 h4. もちろん初めて参加される方も大歓迎です！！
 
 2回目以降の申し込みを行いたい方は以下のどちらかの手段でお願いします。
+片方だけで構いません。
 
  * "@osyo_memo":https://twitter.com/osyo_memo まで記事を書きたい旨を連絡する
  ** これは去年と同様の手段になります
@@ -63,8 +64,8 @@ h2. 今月のスケジュール
 |25|12/25(水)|@t9md|"私の Vim 活記録":http://d.hatena.ne.jp/t9md/20131227/1388140475|
 |26|12/26(木)|@toyamarinyon|"わたしとvim":http://toyamarinyon.hatenablog.jp/entry/2013/12/27/082910|
 |27|12/27(金)|@syui|"Vim script初心者講座 vol.3":http://mba-hack.blogspot.jp/2013/12/vim-script-vol3.html|
-|28|12/28(土)|@kobadesu||
-|29|12/29(日)|@pebble8888||
+|28|12/28(土)|@kobadesu|"はてなブログへVimからポストする":http://dev.logicspace.net/entry/2013/12/28/202227|
+|29|12/29(日)|@pebble8888|"doxygen形式の関数コメントを生成するvim plugin（C、Objective-C対応）":http://pebble8888.hatenablog.com/entry/2013/12/28/223902|
 |30|12/30(月)|@tyru||
 |31|12/31(火)|@kanno_kanno||
 |32|01/01(水)|@ujihisa||
