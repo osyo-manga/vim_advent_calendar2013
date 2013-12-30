@@ -66,7 +66,7 @@ h2. 今月のスケジュール
 |27|12/27(金)|@syui|"Vim script初心者講座 vol.3":http://mba-hack.blogspot.jp/2013/12/vim-script-vol3.html|
 |28|12/28(土)|@kobadesu|"はてなブログへVimからポストする":http://dev.logicspace.net/entry/2013/12/28/202227|
 |29|12/29(日)|@pebble8888|"doxygen形式の関数コメントを生成するvim plugin（C、Objective-C対応）":http://pebble8888.hatenablog.com/entry/2013/12/28/223902|
-|30|12/30(月)|@tyru||
+|30|12/30(月)|@||
 |31|12/31(火)|@kanno_kanno||
 |32|01/01(水)|@ujihisa||
 |33|01/02(木)|@ne_sachirou||
