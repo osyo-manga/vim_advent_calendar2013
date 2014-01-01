@@ -69,7 +69,7 @@ h2. 今月のスケジュール
 |30|12/30(月)|@manga_osyo|"来年も使いたい Vim プラグインランキング2013":http://d.hatena.ne.jp/osyo-manga/20131230/1388413632|
 |31|12/31(火)|@kanno_kanno|"Vim - プラグインまたはVim scriptを書く楽しさについて語りたい":http://kannokanno.hatenablog.com/entry/2013/12/31/161123|
 |32|01/01(水)|@ujihisa|"VimConf2013":https://gist.github.com/ujihisa/8199581|
-|33|01/02(木)|@ne_sachirou||
+|33|01/02(木)|@ne_sachirou|"Vim で、文字数をstatuslineやlightline.vimに表示する":http://c4se.hatenablog.com/entry/2014/01/02/010615|
 |34|01/03(金)|@kamichidu||
 |35|01/04(土)|@cocopon||
 |36|01/05(日)|@||
