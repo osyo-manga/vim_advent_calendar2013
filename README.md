@@ -70,7 +70,7 @@ h2. 今月のスケジュール
 |31|12/31(火)|@kanno_kanno|"Vim - プラグインまたはVim scriptを書く楽しさについて語りたい":http://kannokanno.hatenablog.com/entry/2013/12/31/161123|
 |32|01/01(水)|@ujihisa|"VimConf2013":https://gist.github.com/ujihisa/8199581|
 |33|01/02(木)|@ne_sachirou|"Vim で、文字数をstatuslineやlightline.vimに表示する":http://c4se.hatenablog.com/entry/2014/01/02/010615|
-|34|01/03(金)|@kamichidu||
+|34|01/03(金)|@kamichidu|"uniteでfile_include的な挙動を実装する":http://qiita.com/kamichidu/items/057ce81a95d3e1cbd43a|
 |35|01/04(土)|@cocopon||
 |36|01/05(日)|@ujihisa||
 |37|01/06(月)|@||
