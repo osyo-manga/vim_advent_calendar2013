@@ -71,7 +71,7 @@ h2. 今月のスケジュール
 |32|01/01(水)|@ujihisa|"VimConf2013":https://gist.github.com/ujihisa/8199581|
 |33|01/02(木)|@ne_sachirou|"Vim で、文字数をstatuslineやlightline.vimに表示する":http://c4se.hatenablog.com/entry/2014/01/02/010615|
 |34|01/03(金)|@kamichidu|"uniteでfile_include的な挙動を実装する":http://qiita.com/kamichidu/items/057ce81a95d3e1cbd43a|
-|35|01/04(土)|@cocopon||
+|35|01/04(土)|@cocopon|"南極からやってきたカラースキーム「Iceberg」":http://cocopon.me/blog/?p=4423|
 |36|01/05(日)|@ujihisa||
 |37|01/06(月)|@||
 |38|01/07(火)|@||
