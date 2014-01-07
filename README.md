@@ -72,7 +72,7 @@ h2. 今月のスケジュール
 |33|01/02(木)|@ne_sachirou|"Vim で、文字数をstatuslineやlightline.vimに表示する":http://c4se.hatenablog.com/entry/2014/01/02/010615|
 |34|01/03(金)|@kamichidu|"uniteでfile_include的な挙動を実装する":http://qiita.com/kamichidu/items/057ce81a95d3e1cbd43a|
 |35|01/04(土)|@cocopon|"南極からやってきたカラースキーム「Iceberg」":http://cocopon.me/blog/?p=4423|
-|36|01/05(日)|@ujihisa||
+|36|01/05(日)|@ujihisa|"unite-include-reversed":https://gist.github.com/ujihisa/8292163|
 |37|01/06(月)|@manga_osyo|"Vim のインサートモードで <C-c> を <Esc> の代替にしてはいけない":http://d.hatena.ne.jp/osyo-manga/20140106/1389018511|
 |38|01/07(火)|@cocopon||
 |39|01/08(水)|@||
