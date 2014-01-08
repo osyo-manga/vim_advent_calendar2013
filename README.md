@@ -75,7 +75,7 @@ h2. 今月のスケジュール
 |36|01/05(日)|@ujihisa|"unite-include-reversed":https://gist.github.com/ujihisa/8292163|
 |37|01/06(月)|@manga_osyo|"Vim のインサートモードで <C-c> を <Esc> の代替にしてはいけない":http://d.hatena.ne.jp/osyo-manga/20140106/1389018511|
 |38|01/07(火)|@cocopon|"【Vimカッコイイ計画最終章】もしCSSでVimのカラースキームがつくれたら…？":http://cocopon.me/blog/?p=4419|
-|39|01/08(水)|@||
+|39|01/08(水)|@kanno_kanno||
 |40|01/09(木)|@||
 |41|01/10(金)|@||
 |42|01/11(土)|@alpaca_taichou||
