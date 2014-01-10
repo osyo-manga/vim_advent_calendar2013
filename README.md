@@ -77,7 +77,7 @@ h2. 今月のスケジュール
 |38|01/07(火)|@cocopon|"【Vimカッコイイ計画最終章】もしCSSでVimのカラースキームがつくれたら…？":http://cocopon.me/blog/?p=4419|
 |39|01/08(水)|@kanno_kanno|"Vim - Vim scriptなら関数呼び出しや関数名に変数展開を使える！":http://kannokanno.hatenablog.com/entry/2014/01/08/134706|
 |40|01/09(木)|@LeafCage|"statusline系プラグイン第4の刺客 vim-ezbar":http://leafcage.hateblo.jp/entry/2014/01/09/193222|
-|41|01/10(金)|@manga_osyo||
+|41|01/10(金)|@manga_osyo|"textobj の両端へ移動する operator つくった":http://d.hatena.ne.jp/osyo-manga/20140110/1389342122|
 |42|01/11(土)|@alpaca_taichou||
 |43|01/12(日)|@||
 |44|01/13(月)|@||
