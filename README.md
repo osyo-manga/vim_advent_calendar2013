@@ -79,7 +79,7 @@ h2. 今月のスケジュール
 |40|01/09(木)|@LeafCage|"statusline系プラグイン第4の刺客 vim-ezbar":http://leafcage.hateblo.jp/entry/2014/01/09/193222|
 |41|01/10(金)|@manga_osyo|"textobj の両端へ移動する operator つくった":http://d.hatena.ne.jp/osyo-manga/20140110/1389342122|
 |42|01/11(土)|@alpaca_taichou||
-|43|01/12(日)|@||
+|43|01/12(日)|@ikunikun||
 |44|01/13(月)|@||
 |45|01/14(火)|@||
 |46|01/15(水)|@||
