@@ -73,13 +73,13 @@ h2. 今月のスケジュール
 |34|01/03(金)|@kamichidu|"uniteでfile_include的な挙動を実装する":http://qiita.com/kamichidu/items/057ce81a95d3e1cbd43a|
 |35|01/04(土)|@cocopon|"南極からやってきたカラースキーム「Iceberg」":http://cocopon.me/blog/?p=4423|
 |36|01/05(日)|@ujihisa|"unite-include-reversed":https://gist.github.com/ujihisa/8292163|
-|37|01/06(月)|@manga_osyo|"Vim のインサートモードで <C-c> を <Esc> の代替にしてはいけない":http://d.hatena.ne.jp/osyo-manga/20140106/1389018511|
+|37|01/06(月)|@manga_osyo|"Vim のインサートモードで ＜C-c＞ を ＜Esc＞ の代替にしてはいけない":http://d.hatena.ne.jp/osyo-manga/20140106/1389018511|
 |38|01/07(火)|@cocopon|"【Vimカッコイイ計画最終章】もしCSSでVimのカラースキームがつくれたら…？":http://cocopon.me/blog/?p=4419|
 |39|01/08(水)|@kanno_kanno|"Vim - Vim scriptなら関数呼び出しや関数名に変数展開を使える！":http://kannokanno.hatenablog.com/entry/2014/01/08/134706|
 |40|01/09(木)|@LeafCage|"statusline系プラグイン第4の刺客 vim-ezbar":http://leafcage.hateblo.jp/entry/2014/01/09/193222|
 |41|01/10(金)|@manga_osyo|"textobj の両端へ移動する operator つくった":http://d.hatena.ne.jp/osyo-manga/20140110/1389342122|
-|42|01/11(土)|@alpaca_taichou||
-|43|01/12(日)|@ikunikun||
+|42|01/11(土)|@alpaca_taichou|"neocomplete.vimのfile_includeを使いこなす":http://alpaca.tc/blog/vim/file-include-by-neocomplete.html|
+|43|01/12(日)|@ikunikun|"vimshell を初心者からレビューです":http://d.hatena.ne.jp/ikunikun/20140110/1389382044|
 |44|01/13(月)|@||
 |45|01/14(火)|@||
 |46|01/15(水)|@||
