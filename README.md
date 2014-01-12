@@ -80,7 +80,7 @@ h2. 今月のスケジュール
 |41|01/10(金)|@manga_osyo|"textobj の両端へ移動する operator つくった":http://d.hatena.ne.jp/osyo-manga/20140110/1389342122|
 |42|01/11(土)|@alpaca_taichou|"neocomplete.vimのfile_includeを使いこなす":http://alpaca.tc/blog/vim/file-include-by-neocomplete.html|
 |43|01/12(日)|@ikunikun|"vimshell を初心者からレビューです":http://d.hatena.ne.jp/ikunikun/20140110/1389382044|
-|44|01/13(月)|@||
+|44|01/13(月)|@t9md||
 |45|01/14(火)|@||
 |46|01/15(水)|@||
 |47|01/16(木)|@||
