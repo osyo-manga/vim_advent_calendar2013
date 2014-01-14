@@ -82,7 +82,7 @@ h2. 今月のスケジュール
 |43|01/12(日)|@ikunikun|"vimshell を初心者からレビューです":http://d.hatena.ne.jp/ikunikun/20140110/1389382044|
 |44|01/13(月)|@t9md|"choosewin.vim をつくりました":http://d.hatena.ne.jp/t9md/20140112/1389542181|
 |45|01/14(火)|@manga_osyo|"unite-choosewin-actions つくった":http://d.hatena.ne.jp/osyo-manga/20140114/1389711504|
-|46|01/15(水)|@||
+|46|01/15(水)|@zoncoen||
 |47|01/16(木)|@||
 |48|01/17(金)|@||
 |49|01/18(土)|@||
