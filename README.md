@@ -83,7 +83,7 @@ h2. 今月のスケジュール
 |44|01/13(月)|@t9md|"choosewin.vim をつくりました":http://d.hatena.ne.jp/t9md/20140112/1389542181|
 |45|01/14(火)|@manga_osyo|"unite-choosewin-actions つくった":http://d.hatena.ne.jp/osyo-manga/20140114/1389711504|
 |46|01/15(水)|@zoncoen|"Unite-autojumpをつくった":http://blog.zoncoen.net/blog/2014/01/15/unite-autojump/|
-|47|01/16(木)|@||
+|47|01/16(木)|@s_of_p||
 |48|01/17(金)|@||
 |49|01/18(土)|@||
 |50|01/19(日)|@||
