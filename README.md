@@ -86,8 +86,8 @@ h2. 今月のスケジュール
 |47|01/16(木)|@s_of_p|"Virtual-Replace":http://qiita.com/s_of_p/items/70955aaa080102c5fd57|
 |48|01/17(金)|@manga_osyo|"Vim で libclang を使用した C++ の便利プラグインをつくった":http://d.hatena.ne.jp/osyo-manga/20140117/1389966242|
 |49|01/18(土)|@thinca|"本当にキモい Vim script - 行継続編":http://d.hatena.ne.jp/thinca/20140118/1390050203|
-|50|01/19(日)|@lisia||
-|51|01/20(月)|@||
+|50|01/19(日)|@lisia|"私とVim":http://lisia.hatenadiary.jp/entry/2014/01/19/171926|
+|51|01/20(月)|@toyamarinyon||
 |52|01/21(火)|@||
 |53|01/22(水)|@||
 |54|01/23(木)|@||
