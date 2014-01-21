@@ -88,7 +88,7 @@ h2. 今月のスケジュール
 |49|01/18(土)|@thinca|"本当にキモい Vim script - 行継続編":http://d.hatena.ne.jp/thinca/20140118/1390050203|
 |50|01/19(日)|@lisia|"私とVim":http://lisia.hatenadiary.jp/entry/2014/01/19/171926|
 |51|01/20(月)|@toyamarinyon|"node.jsのためのvimのプラグイン・設定まとめ（2014年1月）":http://toyamarinyon.hatenablog.jp/entry/2014/01/21/161139|
-|52|01/21(火)|@||
+|52|01/21(火)|@manga_osyo|"Vim でカーソル下の単語を移動するたびにハイライトする":http://d.hatena.ne.jp/osyo-manga/20140121/1390309901|
 |53|01/22(水)|@||
 |54|01/23(木)|@||
 |55|01/24(金)|@||
