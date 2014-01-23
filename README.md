@@ -90,7 +90,7 @@ h2. 今月のスケジュール
 |51|01/20(月)|@toyamarinyon|"node.jsのためのvimのプラグイン・設定まとめ（2014年1月）":http://toyamarinyon.hatenablog.jp/entry/2014/01/21/161139|
 |52|01/21(火)|@manga_osyo|"Vim でカーソル下の単語を移動するたびにハイライトする":http://d.hatena.ne.jp/osyo-manga/20140121/1390309901|
 |53|01/22(水)|@kozo2|"jedi-vimとneocomplete.vimを併用する際に行っておきたい設定":http://kozo2.hatenablog.com/entry/2014/01/22/050714|
-|54|01/23(木)|@||
+|54|01/23(木)|@manga_osyo|"C++ 関連の vim 逆引きリファレンスのページをつくっている":http://d.hatena.ne.jp/osyo-manga/20140123/1390485537|
 |55|01/24(金)|@||
 |56|01/25(土)|@||
 |57|01/26(日)|@||
