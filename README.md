@@ -92,7 +92,7 @@ h2. 今月のスケジュール
 |53|01/22(水)|@kozo2|"jedi-vimとneocomplete.vimを併用する際に行っておきたい設定":http://kozo2.hatenablog.com/entry/2014/01/22/050714|
 |54|01/23(木)|@manga_osyo|"C++ 関連の vim 逆引きリファレンスのページをつくっている":http://d.hatena.ne.jp/osyo-manga/20140123/1390485537|
 |55|01/24(金)|@lisia|"インデントを可視化するプラグイン":http://lisia.hatenadiary.jp/entries/2014/01/25|
-|56|01/25(土)|@||
+|56|01/25(土)|@manga_osyo|":substitute をプレビューする over.vim にスクロール機能を実装した":http://d.hatena.ne.jp/osyo-manga/20140125/1390658740|
 |57|01/26(日)|@||
 |58|01/27(月)|@||
 |59|01/28(火)|@||
