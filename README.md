@@ -94,8 +94,8 @@ h2. 今月のスケジュール
 |55|01/24(金)|@lisia|"インデントを可視化するプラグイン":http://lisia.hatenadiary.jp/entries/2014/01/25|
 |56|01/25(土)|@manga_osyo|":substitute をプレビューする over.vim にスクロール機能を実装した":http://d.hatena.ne.jp/osyo-manga/20140125/1390658740|
 |57|01/26(日)|@deris0126|"Vimのタブで開いているバッファのdiffを簡単に表示するpluginを書いた":http://deris.hatenablog.jp/entry/2014/01/26/124336|
-|58|01/27(月)|@haya14busa||
-|59|01/28(火)|@||
+|58|01/27(月)|@haya14busa|"Vimのhelpを快適に引こう":http://haya14busa.com/reading-vim-help/|
+|59|01/28(火)|@deton_kih||
 |60|01/29(水)|@||
 |61|01/30(木)|@||
 |62|01/31(金)|@||
