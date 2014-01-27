@@ -96,7 +96,7 @@ h2. 今月のスケジュール
 |57|01/26(日)|@deris0126|"Vimのタブで開いているバッファのdiffを簡単に表示するpluginを書いた":http://deris.hatenablog.jp/entry/2014/01/26/124336|
 |58|01/27(月)|@haya14busa|"Vimのhelpを快適に引こう":http://haya14busa.com/reading-vim-help/|
 |59|01/28(火)|@deton_kih||
-|60|01/29(水)|@||
+|60|01/29(水)|@rcmdnk||
 |61|01/30(木)|@||
 |62|01/31(金)|@||
 
