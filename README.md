@@ -42,7 +42,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |59|01/28(火)|@deton_kih|"GNU screenからVimへのペーストを、インデント崩れを回避しつつ簡潔な操作で行う":http://qiita.com/deton/items/61466d630edbac6734ae|
 |60|01/29(水)|@rcmdnk|"二つのディレクトリのdiffをvimで順にチェック/較正していく":http://rcmdnk.github.io/blog/2014/01/29/computer-bash-vim/|
 |61|01/30(木)|@tyru|"直前の検索パターンと'hlsearch'をバッファローカルにする":http://d.hatena.ne.jp/tyru/20140129/localize_search_options|
-|62|01/31(金)|@manga_osyo||
+|62|01/31(金)|@manga_osyo|"バッファの任意の位置がコメントかどうかを判定する":http://d.hatena.ne.jp/osyo-manga/20140131/1391180483|
 |64|02/01(土)|@tyru||
 |65|02/02(日)|@||
 |66|02/03(月)|@tyru||
