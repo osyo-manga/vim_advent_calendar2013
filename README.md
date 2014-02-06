@@ -41,7 +41,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |65|02/03(月)|@tyru|":bufferはバッファ名で補完できる":http://d.hatena.ne.jp/tyru/20140203/buffer_cmdline_completion|
 |66|02/04(火)|@supermomonga|"プロジェクトのハンドリングを効率化するプラグイン、ProjectLocal.vimをリリースしました。":http://blog.supermomonga.com/articles/vim/projectlocal-vim-released.html|
 |67|02/05(水)|@termoshtt|"vimでひかえめな自動保存":http://termoshtt.hatenablog.com/entry/2014/02/05/193817|
-|68|02/06(木)|@AmaiSaeta||
+|68|02/06(木)|@AmaiSaeta|"closesomewindow.vim - 条件に合うウィンドウを閉じる Vim plugin":http://amaisaeta.seesaa.net/article/387322833.html|
 |69|02/07(金)|@||
 |70|02/08(土)|@||
 |71|02/09(日)|@||
