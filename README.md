@@ -43,7 +43,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |67|02/05(水)|@termoshtt|"vimでひかえめな自動保存":http://termoshtt.hatenablog.com/entry/2014/02/05/193817|
 |68|02/06(木)|@AmaiSaeta|"closesomewindow.vim - 条件に合うウィンドウを閉じる Vim plugin":http://amaisaeta.seesaa.net/article/387322833.html|
 |69|02/07(金)|@manga_osyo|"Vim で Haml を書くときに quickrun.vim を利用したらちょー捗った話":http://d.hatena.ne.jp/osyo-manga/20140207/1391785259|
-|70|02/08(土)|@yukimemi||
+|70|02/08(土)|@yukimemi|"vim で powershell を書く！":http://yukimemi.bitbucket.org/blog/html/2014/02/08/powershell_make_cmd.html|
 |71|02/09(日)|@CD01_||
 |72|02/10(月)|@||
 |73|02/11(火)|@||
