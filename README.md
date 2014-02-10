@@ -45,7 +45,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |69|02/07(金)|@manga_osyo|"Vim で Haml を書くときに quickrun.vim を利用したらちょー捗った話":http://d.hatena.ne.jp/osyo-manga/20140207/1391785259|
 |70|02/08(土)|@yukimemi|"vim で powershell を書く！":http://yukimemi.bitbucket.org/blog/html/2014/02/08/powershell_make_cmd.html|
 |71|02/09(日)|@CD01_|"Vim で PowerShell のコマンドレットを補完する poshcomplete-vim を作ってみた":http://cd01.hatenablog.jp/entry/2014/02/09/poshcomplete-vim|
-|72|02/10(月)|@||
+|72|02/10(月)|@manga_osyo|"コマンドラインウィンドウで表示される履歴の行数を減らす":http://d.hatena.ne.jp/osyo-manga/20140210/1392036881|
 |73|02/11(火)|@||
 |74|02/12(水)|@||
 |75|02/13(木)|@||
