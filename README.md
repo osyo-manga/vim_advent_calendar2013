@@ -49,7 +49,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |73|02/11(火)|@haya14busa|"Vimの検索ハイライト,hlsearch,:nohlsearch,v:hlsearchがややこしい":http://haya14busa.com/vim_highlight_search/|
 |74|02/12(水)|@manga_osyo|":NeoBundleLazy したプラグインをフォーカスが外れている時に自動的に読み込む":http://d.hatena.ne.jp/osyo-manga/20140212/1392216949|
 |75|02/13(木)|@haya14busa|"Vimでmigemoを使って日本語でもローマ字のまま検索がしたい":http://haya14busa.com/vim_migemo_search/|
-|76|02/14(金)|@||
+|76|02/14(金)|@manga_osyo|"KaoriYa 版 Vim の +migemo を試してみた":http://d.hatena.ne.jp/osyo-manga/20140214/1392387766|
 |77|02/15(土)|@||
 |78|02/16(日)|@haya14busa||
 |79|02/17(月)|@||
