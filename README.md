@@ -53,7 +53,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |77|02/15(土)|@AmaiSaeta|"やったー！Vimでヒアドキュメント実装出来たよー！":http://agpg.seesaa.net/article/388606908.html|
 |78|02/16(日)|@haya14busa|"1年間『Vim駆動学習』してきて最高に楽しかったのでオススメしたい":http://haya14busa.com/vim_driven_learning/|
 |79|02/17(月)|@manga_osyo|"Vim の○○○の機能がいつ実装されたかを手軽に調べる方法":http://d.hatena.ne.jp/osyo-manga/20140217/1392644472|
-|80|02/18(火)|@||
+|80|02/18(火)|@mopp|"Vimの:makeの引数補完機能付き:Makeを作った。":http://ac-mopp.blogspot.jp/2014/02/vimmakemake.html|
 |81|02/19(水)|@||
 |82|02/20(木)|@||
 |83|02/21(金)|@||
