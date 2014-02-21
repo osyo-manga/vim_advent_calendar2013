@@ -56,7 +56,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |80|02/18(火)|@mopp|"Vimの:makeの引数補完機能付き:Makeを作った。":http://ac-mopp.blogspot.jp/2014/02/vimmakemake.html|
 |81|02/19(水)|@manga_osyo|"vimfiler.vim でバッファ上でファイル名を編集する":http://d.hatena.ne.jp/osyo-manga/20140219/1392821957|
 |82|02/20(木)|@mopp|".vimrcでありがちなミスとかおすすめとか":http://ac-mopp.blogspot.jp/2014/02/vimrc.html|
-|83|02/21(金)|@manga_osyo||
+|83|02/21(金)|@manga_osyo|"switch.vim で文字列リテラルを切り替える":http://d.hatena.ne.jp/osyo-manga/20140221/1392991765|
 |84|02/22(土)|@cocopon||
 |85|02/23(日)|@||
 |86|02/24(月)|@||
