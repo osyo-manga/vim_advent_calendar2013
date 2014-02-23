@@ -58,7 +58,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |82|02/20(木)|@mopp|".vimrcでありがちなミスとかおすすめとか":http://ac-mopp.blogspot.jp/2014/02/vimrc.html|
 |83|02/21(金)|@manga_osyo|"switch.vim で文字列リテラルを切り替える":http://d.hatena.ne.jp/osyo-manga/20140221/1392991765|
 |84|02/22(土)|@cocopon|"vimrc読書会で読まれてきました！細マッチョなvimrcへの道":http://cocopon.me/blog/?p=4719|
-|85|02/23(日)|@||
+|85|02/23(日)|@koara_local|"VimでいつでもMakeしたい":http://qiita.com/koara-local/items/a435836e48a8a1ed4797|
 |86|02/24(月)|@||
 |87|02/25(火)|@||
 |88|02/26(水)|@||
