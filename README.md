@@ -62,7 +62,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |86|02/24(月)|@znatz||
 |87|02/25(火)|@saihoooooooo|"vim-localvimrcで編集するファイルパスごとに異なる設定を保持する":http://saihoooooooo.hatenablog.com/entry/2014/02/25/005205|
 |88|02/26(水)|@manga_osyo|"誤った goto 文で到達しないコード箇所を直ちに検知する方法":http://d.hatena.ne.jp/osyo-manga/20140226/1393427342|
-|89|02/27(木)|@||
+|89|02/27(木)|@kanno_kanno||
 |90|02/28(金)|@||
 
 h2. 過去のスケジュール
