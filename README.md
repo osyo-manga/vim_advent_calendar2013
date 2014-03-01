@@ -35,35 +35,38 @@ h4. 1. 参加したい方は参加登録する
 h2. 去年と同様、特に終了期日は設けないのでどんどん参加しましょう！
 
 
-|62|01/31(金)|@manga_osyo|"バッファの任意の位置がコメントかどうかを判定する":http://d.hatena.ne.jp/osyo-manga/20140131/1391180483|
-|63|02/01(土)|@tyru|"Windows上でVimからプログラムに引数を渡したい時の注意点":http://d.hatena.ne.jp/tyru/20140201/passing_args_to_a_program_on_windows_from_vim|
-|64|02/02(日)|@thinca|"本当にキモい Vim script - 型チェック編":http://d.hatena.ne.jp/thinca/20140202/1391266973|
-|65|02/03(月)|@tyru|":bufferはバッファ名で補完できる":http://d.hatena.ne.jp/tyru/20140203/buffer_cmdline_completion|
-|66|02/04(火)|@supermomonga|"プロジェクトのハンドリングを効率化するプラグイン、ProjectLocal.vimをリリースしました。":http://blog.supermomonga.com/articles/vim/projectlocal-vim-released.html|
-|67|02/05(水)|@termoshtt|"vimでひかえめな自動保存":http://termoshtt.hatenablog.com/entry/2014/02/05/193817|
-|68|02/06(木)|@AmaiSaeta|"closesomewindow.vim - 条件に合うウィンドウを閉じる Vim plugin":http://amaisaeta.seesaa.net/article/387322833.html|
-|69|02/07(金)|@manga_osyo|"Vim で Haml を書くときに quickrun.vim を利用したらちょー捗った話":http://d.hatena.ne.jp/osyo-manga/20140207/1391785259|
-|70|02/08(土)|@yukimemi|"vim で powershell を書く！":http://yukimemi.bitbucket.org/blog/html/2014/02/08/powershell_make_cmd.html|
-|71|02/09(日)|@CD01_|"Vim で PowerShell のコマンドレットを補完する poshcomplete-vim を作ってみた":http://cd01.hatenablog.jp/entry/2014/02/09/poshcomplete-vim|
-|72|02/10(月)|@manga_osyo|"コマンドラインウィンドウで表示される履歴の行数を減らす":http://d.hatena.ne.jp/osyo-manga/20140210/1392036881|
-|73|02/11(火)|@haya14busa|"Vimの検索ハイライト,hlsearch,:nohlsearch,v:hlsearchがややこしい":http://haya14busa.com/vim_highlight_search/|
-|74|02/12(水)|@manga_osyo|":NeoBundleLazy したプラグインをフォーカスが外れている時に自動的に読み込む":http://d.hatena.ne.jp/osyo-manga/20140212/1392216949|
-|75|02/13(木)|@haya14busa|"Vimでmigemoを使って日本語でもローマ字のまま検索がしたい":http://haya14busa.com/vim_migemo_search/|
-|76|02/14(金)|@manga_osyo|"KaoriYa 版 Vim の +migemo を試してみた":http://d.hatena.ne.jp/osyo-manga/20140214/1392387766|
-|77|02/15(土)|@AmaiSaeta|"やったー！Vimでヒアドキュメント実装出来たよー！":http://agpg.seesaa.net/article/388606908.html|
-|78|02/16(日)|@haya14busa|"1年間『Vim駆動学習』してきて最高に楽しかったのでオススメしたい":http://haya14busa.com/vim_driven_learning/|
-|79|02/17(月)|@manga_osyo|"Vim の○○○の機能がいつ実装されたかを手軽に調べる方法":http://d.hatena.ne.jp/osyo-manga/20140217/1392644472|
-|80|02/18(火)|@mopp|"Vimの:makeの引数補完機能付き:Makeを作った。":http://ac-mopp.blogspot.jp/2014/02/vimmakemake.html|
-|81|02/19(水)|@manga_osyo|"vimfiler.vim でバッファ上でファイル名を編集する":http://d.hatena.ne.jp/osyo-manga/20140219/1392821957|
-|82|02/20(木)|@mopp|".vimrcでありがちなミスとかおすすめとか":http://ac-mopp.blogspot.jp/2014/02/vimrc.html|
-|83|02/21(金)|@manga_osyo|"switch.vim で文字列リテラルを切り替える":http://d.hatena.ne.jp/osyo-manga/20140221/1392991765|
-|84|02/22(土)|@cocopon|"vimrc読書会で読まれてきました！細マッチョなvimrcへの道":http://cocopon.me/blog/?p=4719|
-|85|02/23(日)|@koara_local|"VimでいつでもMakeしたい":http://qiita.com/koara-local/items/a435836e48a8a1ed4797|
-|86|02/24(月)|@manga_osyo|"neovim に関する記事をまとめてみた":http://d.hatena.ne.jp/osyo-manga/20140227/1393506975|
-|87|02/25(火)|@saihoooooooo|"vim-localvimrcで編集するファイルパスごとに異なる設定を保持する":http://saihoooooooo.hatenablog.com/entry/2014/02/25/005205|
-|88|02/26(水)|@manga_osyo|"誤った goto 文で到達しないコード箇所を直ちに検知する方法":http://d.hatena.ne.jp/osyo-manga/20140226/1393427342|
-|89|02/27(木)|@kanno_kanno|"Vim - agやackの検索結果を表示するctrlsfプラグイン":http://kannokanno.hatenablog.com/entry/2014/02/28/055315|
 |90|02/28(金)|@mopp|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/vim.html|
+|91|03/01(土)|@syngan||
+|92|03/02(日)|@||
+|93|03/03(月)|@||
+|94|03/04(火)|@||
+|95|03/05(水)|@||
+|96|03/06(木)|@||
+|97|03/07(金)|@||
+|98|03/08(土)|@||
+|99|03/09(日)|@||
+|100|03/10(月)|@||
+|101|03/11(火)|@||
+|102|03/12(水)|@||
+|103|03/13(木)|@||
+|104|03/14(金)|@||
+|105|03/15(土)|@||
+|106|03/16(日)|@||
+|107|03/17(月)|@||
+|108|03/18(火)|@||
+|109|03/19(水)|@||
+|110|03/20(木)|@||
+|111|03/21(金)|@||
+|112|03/22(土)|@||
+|113|03/23(日)|@||
+|114|03/24(月)|@||
+|115|03/25(火)|@||
+|116|03/26(水)|@||
+|117|03/27(木)|@||
+|118|03/28(金)|@||
+|119|03/29(土)|@||
+|120|03/30(日)|@||
+|121|03/31(月)|@||
 
 h2. 過去のスケジュール
 
@@ -128,6 +131,35 @@ h2. 過去のスケジュール
 |59|01/28(火)|@deton_kih|"GNU screenからVimへのペーストを、インデント崩れを回避しつつ簡潔な操作で行う":http://qiita.com/deton/items/61466d630edbac6734ae|
 |60|01/29(水)|@rcmdnk|"二つのディレクトリのdiffをvimで順にチェック/較正していく":http://rcmdnk.github.io/blog/2014/01/29/computer-bash-vim/|
 |61|01/30(木)|@tyru|"直前の検索パターンと'hlsearch'をバッファローカルにする":http://d.hatena.ne.jp/tyru/20140129/localize_search_options|
+|62|01/31(金)|@manga_osyo|"バッファの任意の位置がコメントかどうかを判定する":http://d.hatena.ne.jp/osyo-manga/20140131/1391180483|
+|63|02/01(土)|@tyru|"Windows上でVimからプログラムに引数を渡したい時の注意点":http://d.hatena.ne.jp/tyru/20140201/passing_args_to_a_program_on_windows_from_vim|
+|64|02/02(日)|@thinca|"本当にキモい Vim script - 型チェック編":http://d.hatena.ne.jp/thinca/20140202/1391266973|
+|65|02/03(月)|@tyru|":bufferはバッファ名で補完できる":http://d.hatena.ne.jp/tyru/20140203/buffer_cmdline_completion|
+|66|02/04(火)|@supermomonga|"プロジェクトのハンドリングを効率化するプラグイン、ProjectLocal.vimをリリースしました。":http://blog.supermomonga.com/articles/vim/projectlocal-vim-released.html|
+|67|02/05(水)|@termoshtt|"vimでひかえめな自動保存":http://termoshtt.hatenablog.com/entry/2014/02/05/193817|
+|68|02/06(木)|@AmaiSaeta|"closesomewindow.vim - 条件に合うウィンドウを閉じる Vim plugin":http://amaisaeta.seesaa.net/article/387322833.html|
+|69|02/07(金)|@manga_osyo|"Vim で Haml を書くときに quickrun.vim を利用したらちょー捗った話":http://d.hatena.ne.jp/osyo-manga/20140207/1391785259|
+|70|02/08(土)|@yukimemi|"vim で powershell を書く！":http://yukimemi.bitbucket.org/blog/html/2014/02/08/powershell_make_cmd.html|
+|71|02/09(日)|@CD01_|"Vim で PowerShell のコマンドレットを補完する poshcomplete-vim を作ってみた":http://cd01.hatenablog.jp/entry/2014/02/09/poshcomplete-vim|
+|72|02/10(月)|@manga_osyo|"コマンドラインウィンドウで表示される履歴の行数を減らす":http://d.hatena.ne.jp/osyo-manga/20140210/1392036881|
+|73|02/11(火)|@haya14busa|"Vimの検索ハイライト,hlsearch,:nohlsearch,v:hlsearchがややこしい":http://haya14busa.com/vim_highlight_search/|
+|74|02/12(水)|@manga_osyo|":NeoBundleLazy したプラグインをフォーカスが外れている時に自動的に読み込む":http://d.hatena.ne.jp/osyo-manga/20140212/1392216949|
+|75|02/13(木)|@haya14busa|"Vimでmigemoを使って日本語でもローマ字のまま検索がしたい":http://haya14busa.com/vim_migemo_search/|
+|76|02/14(金)|@manga_osyo|"KaoriYa 版 Vim の +migemo を試してみた":http://d.hatena.ne.jp/osyo-manga/20140214/1392387766|
+|77|02/15(土)|@AmaiSaeta|"やったー！Vimでヒアドキュメント実装出来たよー！":http://agpg.seesaa.net/article/388606908.html|
+|78|02/16(日)|@haya14busa|"1年間『Vim駆動学習』してきて最高に楽しかったのでオススメしたい":http://haya14busa.com/vim_driven_learning/|
+|79|02/17(月)|@manga_osyo|"Vim の○○○の機能がいつ実装されたかを手軽に調べる方法":http://d.hatena.ne.jp/osyo-manga/20140217/1392644472|
+|80|02/18(火)|@mopp|"Vimの:makeの引数補完機能付き:Makeを作った。":http://ac-mopp.blogspot.jp/2014/02/vimmakemake.html|
+|81|02/19(水)|@manga_osyo|"vimfiler.vim でバッファ上でファイル名を編集する":http://d.hatena.ne.jp/osyo-manga/20140219/1392821957|
+|82|02/20(木)|@mopp|".vimrcでありがちなミスとかおすすめとか":http://ac-mopp.blogspot.jp/2014/02/vimrc.html|
+|83|02/21(金)|@manga_osyo|"switch.vim で文字列リテラルを切り替える":http://d.hatena.ne.jp/osyo-manga/20140221/1392991765|
+|84|02/22(土)|@cocopon|"vimrc読書会で読まれてきました！細マッチョなvimrcへの道":http://cocopon.me/blog/?p=4719|
+|85|02/23(日)|@koara_local|"VimでいつでもMakeしたい":http://qiita.com/koara-local/items/a435836e48a8a1ed4797|
+|86|02/24(月)|@manga_osyo|"neovim に関する記事をまとめてみた":http://d.hatena.ne.jp/osyo-manga/20140227/1393506975|
+|87|02/25(火)|@saihoooooooo|"vim-localvimrcで編集するファイルパスごとに異なる設定を保持する":http://saihoooooooo.hatenablog.com/entry/2014/02/25/005205|
+|88|02/26(水)|@manga_osyo|"誤った goto 文で到達しないコード箇所を直ちに検知する方法":http://d.hatena.ne.jp/osyo-manga/20140226/1393427342|
+|89|02/27(木)|@kanno_kanno|"Vim - agやackの検索結果を表示するctrlsfプラグイン":http://kannokanno.hatenablog.com/entry/2014/02/28/055315|
+
 
 h2. コメントのテンプレです。
 
