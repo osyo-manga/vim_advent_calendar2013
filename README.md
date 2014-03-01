@@ -63,7 +63,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |87|02/25(火)|@saihoooooooo|"vim-localvimrcで編集するファイルパスごとに異なる設定を保持する":http://saihoooooooo.hatenablog.com/entry/2014/02/25/005205|
 |88|02/26(水)|@manga_osyo|"誤った goto 文で到達しないコード箇所を直ちに検知する方法":http://d.hatena.ne.jp/osyo-manga/20140226/1393427342|
 |89|02/27(木)|@kanno_kanno|"Vim - agやackの検索結果を表示するctrlsfプラグイン":http://kannokanno.hatenablog.com/entry/2014/02/28/055315|
-|90|02/28(金)|@|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/vim.html|
+|90|02/28(金)|@mopp|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/vim.html|
 
 h2. 過去のスケジュール
 
