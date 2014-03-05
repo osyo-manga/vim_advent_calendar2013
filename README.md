@@ -1,4 +1,3 @@
-
 TOP絵は "@orga_chem":https://twitter.com/orga_chem さんに書いていただきました。
 
 
@@ -41,7 +40,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |092|03/02(日)|@deton_kih|"`c`,`s`,`r`コマンドで、書き換え前の文字列に応じてIMオン/オフを切り替えるVimプラグインを作りました":http://qiita.com/deton/items/ce21f80265753134e7e9|
 |093|03/03(月)|@manga_osyo|"Vim で行番号の左側に余白を追加する":http://d.hatena.ne.jp/osyo-manga/20140303/1393854617|
 |094|03/04(火)|@mopp_jp|"Vim で .c/.cpp と.h/.hpp とかを相互に開くPluginをつくったじゃんよ":http://ac-mopp.blogspot.jp/2014/03/vim-ccpp-hhpp-plugin.html|
-|095|03/05(水)|@||
+|095|03/05(水)|@manga_osyo|"unite.vim のアクションを起動するときに start-insert して開く方法":http://d.hatena.ne.jp/osyo-manga/20140305/1394032093|
 |096|03/06(木)|@||
 |097|03/07(金)|@||
 |098|03/08(土)|@||
