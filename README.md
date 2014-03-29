@@ -35,11 +35,7 @@ h4. 1. 参加したい方は参加登録する
 h2. 去年と同様、特に終了期日は設けないのでどんどん参加しましょう！
 
 
-|090|02/28(金)|@mopp_jp|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/vim.html|
-|091|03/01(土)|@syngan|"hoge() で囲みたい症候群":http://d.hatena.ne.jp/syngan/20140301/1393676442|
-|092|03/02(日)|@deton_kih|"`c`,`s`,`r`コマンドで、書き換え前の文字列に応じてIMオン/オフを切り替えるVimプラグインを作りました":http://qiita.com/deton/items/ce21f80265753134e7e9|
-|093|03/03(月)|@manga_osyo|"Vim で行番号の左側に余白を追加する":http://d.hatena.ne.jp/osyo-manga/20140303/1393854617|
-|094|03/04(火)|@mopp_jp|"Vim で .c/.cpp と.h/.hpp とかを相互に開くPluginをつくったじゃんよ":http://ac-mopp.blogspot.jp/2014/03/vim-ccpp-hhpp-plugin.html|
+|090|02/28(金)|@mopp_jp|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/v
 |095|03/05(水)|@manga_osyo|"unite.vim のアクションを起動するときに start-insert して開く方法":http://d.hatena.ne.jp/osyo-manga/20140305/1394032093|
 |096|03/06(木)|@supermomonga|"3/21日に東京でVim勉強会を開催します":http://blog.supermomonga.com/articles/vim/momongavim-3.html|
 |097|03/07(金)|@manga_osyo|"モモンガでもわかるテキストオブジェクトとオペレータ":http://d.hatena.ne.jp/osyo-manga/20140307/1394204974|
