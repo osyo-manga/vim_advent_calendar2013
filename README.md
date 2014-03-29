@@ -35,7 +35,6 @@ h4. 1. 参加したい方は参加登録する
 h2. 去年と同様、特に終了期日は設けないのでどんどん参加しましょう！
 
 
-|090|02/28(金)|@mopp_jp|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/v
 |095|03/05(水)|@manga_osyo|"unite.vim のアクションを起動するときに start-insert して開く方法":http://d.hatena.ne.jp/osyo-manga/20140305/1394032093|
 |096|03/06(木)|@supermomonga|"3/21日に東京でVim勉強会を開催します":http://blog.supermomonga.com/articles/vim/momongavim-3.html|
 |097|03/07(金)|@manga_osyo|"モモンガでもわかるテキストオブジェクトとオペレータ":http://d.hatena.ne.jp/osyo-manga/20140307/1394204974|
