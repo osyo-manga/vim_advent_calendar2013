@@ -34,6 +34,38 @@ h4. 1. 参加したい方は参加登録する
 
 h2. 去年と同様、特に終了期日は設けないのでどんどん参加しましょう！
 
+
+|090|02/28(金)|@mopp_jp|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/vim.html|
+|091|03/01(土)|@syngan|"hoge() で囲みたい症候群":http://d.hatena.ne.jp/syngan/20140301/1393676442|
+|092|03/02(日)|@deton_kih|"`c`,`s`,`r`コマンドで、書き換え前の文字列に応じてIMオン/オフを切り替えるVimプラグインを作りました":http://qiita.com/deton/items/ce21f80265753134e7e9|
+|093|03/03(月)|@manga_osyo|"Vim で行番号の左側に余白を追加する":http://d.hatena.ne.jp/osyo-manga/20140303/1393854617|
+|094|03/04(火)|@mopp_jp|"Vim で .c/.cpp と.h/.hpp とかを相互に開くPluginをつくったじゃんよ":http://ac-mopp.blogspot.jp/2014/03/vim-ccpp-hhpp-plugin.html|
+|095|03/05(水)|@manga_osyo|"unite.vim のアクションを起動するときに start-insert して開く方法":http://d.hatena.ne.jp/osyo-manga/20140305/1394032093|
+|096|03/06(木)|@supermomonga|"3/21日に東京でVim勉強会を開催します":http://blog.supermomonga.com/articles/vim/momongavim-3.html|
+|097|03/07(金)|@manga_osyo|"モモンガでもわかるテキストオブジェクトとオペレータ":http://d.hatena.ne.jp/osyo-manga/20140307/1394204974|
+|098|03/08(土)|@vimtaku|"Vim-operator-mdurl という Vim Plugin 書いた":http://vimtaku.github.io/blog/2014/03/08/vim-operator-mdurl/|
+|099|03/09(日)|@tek_koc|"Vimの便利な画面分割＆タブページと、それを更に便利にする方法":http://qiita.com/tekkoc/items/98adcadfa4bdc8b5a6ca|
+|100|03/10(月)|@anekos|"XMonad の NamedScratchPad と restart.vim のアギャーーーー！":http://d.hatena.ne.jp/nokturnalmortum/20140310/1394452613|
+|101|03/11(火)|@supermomonga|"ベータ版 ビムの選び方フローチャート":http://blog.supermomonga.com/articles/vim/beta-flowchart.html|
+|102|03/12(水)|@manga_osyo|"ヤンクした URL を貼り付けて neosnippet を展開する":http://d.hatena.ne.jp/osyo-manga/20140312/1394633425|
+|103|03/13(木)|@mopp_jp|"lightline.vimのバッファ履歴表示コンポーネントをかいた":http://ac-mopp.blogspot.jp/2014/03/lightlinevim.html|
+|104|03/14(金)|@manga_osyo|"over.vim 2.0 をリリースしました":http://d.hatena.ne.jp/osyo-manga/20140314/1394805395|
+|105|03/15(土)|@deton_kih|"Vimでの日本語入力・編集用に別コマンドを割り当てる":http://qiita.com/deton/items/a3cb60ae014276aeb4d9|
+|106|03/16(日)|@h0k0r0bi|"Vim で tags ファイル生成を補助するプラグインを作ってみた":http://qiita.com/hokorobi/items/71b930abdeb6edb342c7|
+|107|03/17(月)|@manga_osyo|"Vim で矩形なオブジェクトを対象とする為の textobj を書いた":http://d.hatena.ne.jp/osyo-manga/20140317/1395066378|
+|108|03/18(火)|@haya14busa|"かゆいところに手が届く、vim-submodeでxの挙動をカイゼンする":http://haya14busa.com/improve-x-with-vim-submode/|
+|109|03/19(水)|@okuramasafumi|"Vimを体系的に学ぶつもりのない人のためのVim講座":http://qiita.com/okuramasafumi/items/50c64825cf365e8f6e78|
+|110|03/20(木)|@manga_osyo|"Vim script からキー入力を呼び出す":http://d.hatena.ne.jp/osyo-manga/20140320/1395327444|
+|111|03/21(金)|@syngan|"vim-vimlint で Travis-CI 連携":http://d.hatena.ne.jp/syngan/20140321/1395411106|
+|112|03/22(土)|@manga_osyo|"Vim script でいろいろな関数の定義方法":http://d.hatena.ne.jp/osyo-manga/20140322/1395500795|
+|113|03/23(日)|@haya14busa|"Vim-EasyMotionでカーソル移動を爆速にして生産性をもっと向上させる":http://haya14busa.com/mastering-vim-easymotion/|
+|114|03/24(月)|@thinca|"gf-user で gf の動作を拡張する":http://d.hatena.ne.jp/thinca/20140324/1395590910|
+|115|03/25(火)|@deton_kih|"WindowsでUWSCやAutoHotkeyを使って外部エディタとしてgvimを起動する":http://qiita.com/deton/items/08262f19efb9bd61e4cb|
+|116|03/26(水)|@manga_osyo|"neobundle.vim で Vim のフォーカスが外れた時に自動でプラグインを読み込む":http://d.hatena.ne.jp/osyo-manga/20140326/1395836297|
+|117|03/27(木)|@msmhrt|"sudoedit で Vim の多重起動を避ける":http://qiita.com/msmhrt/items/3e67aca71a43e8acfbd3|
+|118|03/28(金)|@mfumi2|"vimのconcealを使ってJavadocを奇麗に表示":http://d.hatena.ne.jp/mFumi/20140328/1395946070|
+|119|03/29(土)|@tgfjt||
+|120|03/30(日)|@raa0121||
 |121|03/31(月)|@manga_osyo||
 |122|04/01(火)|@supermomonga||
 |123|04/02(水)|@Shougo||
