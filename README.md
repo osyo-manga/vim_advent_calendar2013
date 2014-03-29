@@ -34,11 +34,6 @@ h4. 1. 参加したい方は参加登録する
 
 h2. 去年と同様、特に終了期日は設けないのでどんどん参加しましょう！
 
-
-|117|03/27(木)|@msmhrt|"sudoedit で Vim の多重起動を避ける":http://qiita.com/msmhrt/items/3e67aca71a43e8acfbd3|
-|118|03/28(金)|@mfumi2|"vimのconcealを使ってJavadocを奇麗に表示":http://d.hatena.ne.jp/mFumi/20140328/1395946070|
-|119|03/29(土)|@tgfjt||
-|120|03/30(日)|@raa0121||
 |121|03/31(月)|@manga_osyo||
 |122|04/01(火)|@supermomonga||
 |123|04/02(水)|@Shougo||
