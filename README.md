@@ -65,7 +65,7 @@ h2. 去年と同様、特に終了期日は設けないのでどんどん参加�
 |117|03/27(木)|@msmhrt|"sudoedit で Vim の多重起動を避ける":http://qiita.com/msmhrt/items/3e67aca71a43e8acfbd3|
 |118|03/28(金)|@mfumi2|"vimのconcealを使ってJavadocを奇麗に表示":http://d.hatena.ne.jp/mFumi/20140328/1395946070|
 |119|03/29(土)|@tgfjt|"vim-gal-character を作ってみた。":http://qiita.com/tgfjt/items/4a739e6a1d10327e6d1e|
-|120|03/30(日)|@raa0121||
+|120|03/30(日)|@raa0121|"第2回 Sapporo.vim を行います":http://wp.raa0121.info/2014/03/2-sapporovim.html|
 |121|03/31(月)|@manga_osyo||
 |122|04/01(火)|@supermomonga||
 |123|04/02(水)|@Shougo||
