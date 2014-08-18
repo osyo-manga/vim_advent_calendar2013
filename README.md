@@ -4,6 +4,11 @@ TOP絵は "@orga_chem":https://twitter.com/orga_chem さんに書いていただ
 h4. Vim Advent Calendar を今年もやりたいと思います！！
 去年の内容は "こちら":http://atnd.org/events/33746 を参照して下さい。
 
+h2. 05/12(月)より Vim Advent Calendar 2013 を再開しました
+
+しばらく中断していましたが『続けてほしい』という声が多かったので 05/12(月)より Vim Advent Calendar 2013 再開しました。
+ただし、今後1日でも抜けた場合はその時点で終了するので書きたい人がいれば早めにお願いします。
+
 h2. 2回目以降の参加を考えている方へ
 
 去年に引き続き今回も2回目以降書きたい方を募集しています。
@@ -34,69 +39,40 @@ h4. 1. 参加したい方は参加登録する
 
 h2. 去年と同様、特に終了期日は設けないのでどんどん参加しましょう！
 
+|181|05/30(金)|@syngan|"vital.vim を使うときはそれなりの覚悟が必要":http://d.hatena.ne.jp/syngan/20140530/1401453356|
+|182|05/31(土)|@tyru|"open-browser.vimに右クリック時のポップアップメニューを追加した":http://d.hatena.ne.jp/tyru/20140531/add_right_click_popup_menu_for_openbrowser|
+|183|06/01(日)|@manga_osyo|"unite-neobundle から github の Issues を開く":http://d.hatena.ne.jp/osyo-manga/20140601/1401624616|
+|184|06/02(月)|@hujo|"行の折りたたみfoldtextを設定をした":http://hujo.hateblo.jp/entry/2014/06/02/052608|
+|185|06/03(火)|@supermomonga|"風邪で喉が終了したのでVimで会話していた":http://blog.supermomonga.com/articles/vim/shaberu-vim-recursive.html|
+|186|06/04(水)|@tgfjt|"いつでもどこでも Hubot から :help する":http://qiita.com/tgfjt/items/758ae84878c618be2079|
+|187|06/05(木)|@||
+|188|06/06(金)|@||
+|189|06/07(土)|@||
+|190|06/08(日)|@||
+|191|06/09(月)|@||
+|192|06/10(火)|@||
+|193|06/11(水)|@||
+|194|06/12(木)|@||
+|195|06/13(金)|@||
+|196|06/14(土)|@||
+|197|06/15(日)|@||
+|198|06/16(月)|@||
+|199|06/17(火)|@||
+|200|06/18(水)|@||
+|201|06/19(木)|@||
+|202|06/20(金)|@||
+|203|06/21(土)|@||
+|204|06/22(日)|@||
+|205|06/23(月)|@||
+|206|06/24(火)|@||
+|207|06/25(水)|@||
+|208|06/26(木)|@||
+|209|06/27(金)|@||
+|210|06/28(土)|@||
+|211|06/29(日)|@||
+|212|06/30(月)|@||
 
-|090|02/28(金)|@mopp_jp|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/vim.html|
-|091|03/01(土)|@syngan|"hoge() で囲みたい症候群":http://d.hatena.ne.jp/syngan/20140301/1393676442|
-|092|03/02(日)|@deton_kih|"`c`,`s`,`r`コマンドで、書き換え前の文字列に応じてIMオン/オフを切り替えるVimプラグインを作りました":http://qiita.com/deton/items/ce21f80265753134e7e9|
-|093|03/03(月)|@manga_osyo|"Vim で行番号の左側に余白を追加する":http://d.hatena.ne.jp/osyo-manga/20140303/1393854617|
-|094|03/04(火)|@mopp_jp|"Vim で .c/.cpp と.h/.hpp とかを相互に開くPluginをつくったじゃんよ":http://ac-mopp.blogspot.jp/2014/03/vim-ccpp-hhpp-plugin.html|
-|095|03/05(水)|@manga_osyo|"unite.vim のアクションを起動するときに start-insert して開く方法":http://d.hatena.ne.jp/osyo-manga/20140305/1394032093|
-|096|03/06(木)|@supermomonga|"3/21日に東京でVim勉強会を開催します":http://blog.supermomonga.com/articles/vim/momongavim-3.html|
-|097|03/07(金)|@manga_osyo|"モモンガでもわかるテキストオブジェクトとオペレータ":http://d.hatena.ne.jp/osyo-manga/20140307/1394204974|
-|098|03/08(土)|@vimtaku|"Vim-operator-mdurl という Vim Plugin 書いた":http://vimtaku.github.io/blog/2014/03/08/vim-operator-mdurl/|
-|099|03/09(日)|@tek_koc|"Vimの便利な画面分割＆タブページと、それを更に便利にする方法":http://qiita.com/tekkoc/items/98adcadfa4bdc8b5a6ca|
-|100|03/10(月)|@anekos|"XMonad の NamedScratchPad と restart.vim のアギャーーーー！":http://d.hatena.ne.jp/nokturnalmortum/20140310/1394452613|
-|101|03/11(火)|@supermomonga|"ベータ版 ビムの選び方フローチャート":http://blog.supermomonga.com/articles/vim/beta-flowchart.html|
-|102|03/12(水)|@manga_osyo|"ヤンクした URL を貼り付けて neosnippet を展開する":http://d.hatena.ne.jp/osyo-manga/20140312/1394633425|
-|103|03/13(木)|@mopp_jp|"lightline.vimのバッファ履歴表示コンポーネントをかいた":http://ac-mopp.blogspot.jp/2014/03/lightlinevim.html|
-|104|03/14(金)|@manga_osyo|"over.vim 2.0 をリリースしました":http://d.hatena.ne.jp/osyo-manga/20140314/1394805395|
-|105|03/15(土)|@deton_kih|"Vimでの日本語入力・編集用に別コマンドを割り当てる":http://qiita.com/deton/items/a3cb60ae014276aeb4d9|
-|106|03/16(日)|@h0k0r0bi|"Vim で tags ファイル生成を補助するプラグインを作ってみた":http://qiita.com/hokorobi/items/71b930abdeb6edb342c7|
-|107|03/17(月)|@manga_osyo|"Vim で矩形なオブジェクトを対象とする為の textobj を書いた":http://d.hatena.ne.jp/osyo-manga/20140317/1395066378|
-|108|03/18(火)|@haya14busa|"かゆいところに手が届く、vim-submodeでxの挙動をカイゼンする":http://haya14busa.com/improve-x-with-vim-submode/|
-|109|03/19(水)|@okuramasafumi|"Vimを体系的に学ぶつもりのない人のためのVim講座":http://qiita.com/okuramasafumi/items/50c64825cf365e8f6e78|
-|110|03/20(木)|@manga_osyo|"Vim script からキー入力を呼び出す":http://d.hatena.ne.jp/osyo-manga/20140320/1395327444|
-|111|03/21(金)|@syngan|"vim-vimlint で Travis-CI 連携":http://d.hatena.ne.jp/syngan/20140321/1395411106|
-|112|03/22(土)|@manga_osyo|"Vim script でいろいろな関数の定義方法":http://d.hatena.ne.jp/osyo-manga/20140322/1395500795|
-|113|03/23(日)|@haya14busa|"Vim-EasyMotionでカーソル移動を爆速にして生産性をもっと向上させる":http://haya14busa.com/mastering-vim-easymotion/|
-|114|03/24(月)|@thinca|"gf-user で gf の動作を拡張する":http://d.hatena.ne.jp/thinca/20140324/1395590910|
-|115|03/25(火)|@deton_kih|"WindowsでUWSCやAutoHotkeyを使って外部エディタとしてgvimを起動する":http://qiita.com/deton/items/08262f19efb9bd61e4cb|
-|116|03/26(水)|@manga_osyo|"neobundle.vim で Vim のフォーカスが外れた時に自動でプラグインを読み込む":http://d.hatena.ne.jp/osyo-manga/20140326/1395836297|
-|117|03/27(木)|@msmhrt|"sudoedit で Vim の多重起動を避ける":http://qiita.com/msmhrt/items/3e67aca71a43e8acfbd3|
-|118|03/28(金)|@mfumi2|"vimのconcealを使ってJavadocを奇麗に表示":http://d.hatena.ne.jp/mFumi/20140328/1395946070|
-|119|03/29(土)|@tgfjt|"vim-gal-character を作ってみた。":http://qiita.com/tgfjt/items/4a739e6a1d10327e6d1e|
-|120|03/30(日)|@raa0121|"第2回 Sapporo.vim を行います":http://wp.raa0121.info/2014/03/2-sapporovim.html|
-|121|03/31(月)|@manga_osyo||
-|122|04/01(火)|@supermomonga||
-|123|04/02(水)|@Shougo||
-|124|04/03(木)|@||
-|125|04/04(金)|@||
-|126|04/05(土)|@||
-|127|04/06(日)|@||
-|128|04/07(火)|@||
-|129|04/08(水)|@||
-|130|04/09(木)|@||
-|131|04/10(金)|@||
-|132|04/11(土)|@||
-|133|04/12(日)|@||
-|134|04/13(火)|@||
-|135|04/14(水)|@||
-|136|04/15(木)|@||
-|137|04/16(金)|@||
-|138|04/17(土)|@||
-|139|04/18(日)|@||
-|140|04/19(火)|@||
-|141|04/20(水)|@||
-|142|04/21(木)|@||
-|143|04/22(金)|@||
-|144|04/23(土)|@||
-|145|04/24(日)|@||
-|146|04/25(火)|@||
-|147|04/26(水)|@||
-|148|04/27(木)|@||
-|149|04/28(金)|@||
-|150|04/29(土)|@||
-|151|04/30(日)|@||
+
 
 h2. 過去のスケジュール
 
@@ -189,8 +165,99 @@ h2. 過去のスケジュール
 |087|02/25(火)|@saihoooooooo|"vim-localvimrcで編集するファイルパスごとに異なる設定を保持する":http://saihoooooooo.hatenablog.com/entry/2014/02/25/005205|
 |088|02/26(水)|@manga_osyo|"誤った goto 文で到達しないコード箇所を直ちに検知する方法":http://d.hatena.ne.jp/osyo-manga/20140226/1393427342|
 |089|02/27(木)|@kanno_kanno|"Vim - agやackの検索結果を表示するctrlsfプラグイン":http://kannokanno.hatenablog.com/entry/2014/02/28/055315|
+|090|02/28(金)|@mopp_jp|"君の知らないVimレジスター":http://ac-mopp.blogspot.jp/2014/03/vim.html|
+|091|03/01(土)|@syngan|"hoge() で囲みたい症候群":http://d.hatena.ne.jp/syngan/20140301/1393676442|
+|092|03/02(日)|@deton_kih|"`c`,`s`,`r`コマンドで、書き換え前の文字列に応じてIMオン/オフを切り替えるVimプラグインを作りました":http://qiita.com/deton/items/ce21f80265753134e7e9|
+|093|03/03(月)|@manga_osyo|"Vim で行番号の左側に余白を追加する":http://d.hatena.ne.jp/osyo-manga/20140303/1393854617|
+|094|03/04(火)|@mopp_jp|"Vim で .c/.cpp と.h/.hpp とかを相互に開くPluginをつくったじゃんよ":http://ac-mopp.blogspot.jp/2014/03/vim-ccpp-hhpp-plugin.html|
+|095|03/05(水)|@manga_osyo|"unite.vim のアクションを起動するときに start-insert して開く方法":http://d.hatena.ne.jp/osyo-manga/20140305/1394032093|
+|096|03/06(木)|@supermomonga|"3/21日に東京でVim勉強会を開催します":http://blog.supermomonga.com/articles/vim/momongavim-3.html|
+|097|03/07(金)|@manga_osyo|"モモンガでもわかるテキストオブジェクトとオペレータ":http://d.hatena.ne.jp/osyo-manga/20140307/1394204974|
+|098|03/08(土)|@vimtaku|"Vim-operator-mdurl という Vim Plugin 書いた":http://vimtaku.github.io/blog/2014/03/08/vim-operator-mdurl/|
+|099|03/09(日)|@tek_koc|"Vimの便利な画面分割＆タブページと、それを更に便利にする方法":http://qiita.com/tekkoc/items/98adcadfa4bdc8b5a6ca|
+|100|03/10(月)|@anekos|"XMonad の NamedScratchPad と restart.vim のアギャーーーー！":http://d.hatena.ne.jp/nokturnalmortum/20140310/1394452613|
+|101|03/11(火)|@supermomonga|"ベータ版 ビムの選び方フローチャート":http://blog.supermomonga.com/articles/vim/beta-flowchart.html|
+|102|03/12(水)|@manga_osyo|"ヤンクした URL を貼り付けて neosnippet を展開する":http://d.hatena.ne.jp/osyo-manga/20140312/1394633425|
+|103|03/13(木)|@mopp_jp|"lightline.vimのバッファ履歴表示コンポーネントをかいた":http://ac-mopp.blogspot.jp/2014/03/lightlinevim.html|
+|104|03/14(金)|@manga_osyo|"over.vim 2.0 をリリースしました":http://d.hatena.ne.jp/osyo-manga/20140314/1394805395|
+|105|03/15(土)|@deton_kih|"Vimでの日本語入力・編集用に別コマンドを割り当てる":http://qiita.com/deton/items/a3cb60ae014276aeb4d9|
+|106|03/16(日)|@h0k0r0bi|"Vim で tags ファイル生成を補助するプラグインを作ってみた":http://qiita.com/hokorobi/items/71b930abdeb6edb342c7|
+|107|03/17(月)|@manga_osyo|"Vim で矩形なオブジェクトを対象とする為の textobj を書いた":http://d.hatena.ne.jp/osyo-manga/20140317/1395066378|
+|108|03/18(火)|@haya14busa|"かゆいところに手が届く、vim-submodeでxの挙動をカイゼンする":http://haya14busa.com/improve-x-with-vim-submode/|
+|109|03/19(水)|@okuramasafumi|"Vimを体系的に学ぶつもりのない人のためのVim講座":http://qiita.com/okuramasafumi/items/50c64825cf365e8f6e78|
+|110|03/20(木)|@manga_osyo|"Vim script からキー入力を呼び出す":http://d.hatena.ne.jp/osyo-manga/20140320/1395327444|
+|111|03/21(金)|@syngan|"vim-vimlint で Travis-CI 連携":http://d.hatena.ne.jp/syngan/20140321/1395411106|
+|112|03/22(土)|@manga_osyo|"Vim script でいろいろな関数の定義方法":http://d.hatena.ne.jp/osyo-manga/20140322/1395500795|
+|113|03/23(日)|@haya14busa|"Vim-EasyMotionでカーソル移動を爆速にして生産性をもっと向上させる":http://haya14busa.com/mastering-vim-easymotion/|
+|114|03/24(月)|@thinca|"gf-user で gf の動作を拡張する":http://d.hatena.ne.jp/thinca/20140324/1395590910|
+|115|03/25(火)|@deton_kih|"WindowsでUWSCやAutoHotkeyを使って外部エディタとしてgvimを起動する":http://qiita.com/deton/items/08262f19efb9bd61e4cb|
+|116|03/26(水)|@manga_osyo|"neobundle.vim で Vim のフォーカスが外れた時に自動でプラグインを読み込む":http://d.hatena.ne.jp/osyo-manga/20140326/1395836297|
+|117|03/27(木)|@msmhrt|"sudoedit で Vim の多重起動を避ける":http://qiita.com/msmhrt/items/3e67aca71a43e8acfbd3|
+|118|03/28(金)|@mfumi2|"vimのconcealを使ってJavadocを奇麗に表示":http://d.hatena.ne.jp/mFumi/20140328/1395946070|
+|119|03/29(土)|@tgfjt|"vim-gal-character を作ってみた。":http://qiita.com/tgfjt/items/4a739e6a1d10327e6d1e|
+|120|03/30(日)|@raa0121|"第2回 Sapporo.vim を行います":http://wp.raa0121.info/2014/03/2-sapporovim.html|
+|121|03/31(月)|@manga_osyo|"Vim のパッチ一覧を出力する unite-vimpatches をつくった":http://d.hatena.ne.jp/osyo-manga/20140331/1396276259|
+|122|04/01(火)|@supermomonga|"momonga.vim #3 に行ってきた":http://blog.supermomonga.com/articles/vim/momongavim-3-report.html|
+|123|04/02(水)|@ShougoMatsu|"Web 製作者のための Sublime Text の教科書レビュー":http://vinarian.blogspot.jp/2014/04/web-sublime-text.html|
+|124|04/03(木)|@AmaiSaeta|"hermitcrab.vim ―― シェル関係の設定を一括変更、或いは好みのシェルでコマンドを実行するVimプラグイン":http://amaisaeta.seesaa.net/article/393335326.html|
+|125|04/04(金)|@gu4|"最近のvim界隈の出来事をキャッチアップするには":http://d.hatena.ne.jp/guyon/20140403/1396542505|
+|126|04/05(土)|@manga_osyo|"Vim で一時的に変更したオプションの値を安全に戻す":http://d.hatena.ne.jp/osyo-manga/20140405/1396706216|
+|127|04/06(日)|@dictav_|"VACが死んでしまう":http://www.dictav.info/2014/04/06/vac.html|
+|128|04/07(月)|@thinca|"Vim でバイナリデータを扱う":http://d.hatena.ne.jp/thinca/20140407/1396882767|
+|129|04/08(火)|@manga_osyo|"C＋＋ の Vim でのコーディング風景をキャプチャしてみた":http://d.hatena.ne.jp/osyo-manga/20140408/1396966239|
+|130|04/09(水)|@supermomonga|"ジャズだって聴ける。そう、Vimならね。":http://blog.supermomonga.com/articles/vim/jazzradio-vim-released.html|
+|131|04/10(木)|@keizo_bookman|"とあるvim宣教師の手記":http://keizobookman.hatenablog.com/entry/2014/04/10/193041|
+|132|04/11(金)|@s_of_p|"Windows でのステータスライン用フォント":http://qiita.com/s_of_p/items/b7ab2e4a9e484ceb9ee7|
+|133|04/12(土)|@dice_zu|"Vimでマウスを使った矩形選択がしたい":http://daisuzu.hatenablog.com/entry/2014/04/12/212321|
+|134|04/13(日)|@tyru|"Vimでコマンドライン履歴を消す方法":http://d.hatena.ne.jp/tyru/20140413/delete_entire_command_line_history|
+|135|04/14(月)|@s_of_p|"Togglable な option を便利にする":http://qiita.com/s_of_p/items/9d2726d31eb294fb2502|
+|136|04/15(火)|@manga_osyo|"Vim script で関数のデフォルト引数を設定したい":http://d.hatena.ne.jp/osyo-manga/20140415/1397571244|
+|137|04/16(水)|@s_of_p|"colorscheme にマッチした highlight 設定を追加する":http://qiita.com/s_of_p/items/a5649b4010684d8b24aa|
+|138|04/17(木)|@manga_osyo|"neobundle.vim でリポジトリ内の任意のディレクトリをプラグインとして読み込む":http://d.hatena.ne.jp/osyo-manga/20140417/1397747117|
+|139|04/18(金)|@||
+|140|04/19(土)|@manga_osyo|"gtk 環境だと remote_foreground() がうまく動作しない":http://d.hatena.ne.jp/osyo-manga/20140419/1397919267|
+|141|04/20(日)|@aiya_000|"Vimで安心する編集生活":http://gcc0aiya000.blog.fc2.com/blog-entry-24.html|
+|142|04/21(月)|@manga_osyo|"Vim 初心者を脱出するために行う6つのこと":http://d.hatena.ne.jp/osyo-manga/20140421/1398095903|
+|143|04/22(火)|@||
+|144|04/23(水)|@||
+|145|04/24(木)|@||
+|146|04/25(金)|@sh4869sh|"Vim初心者が覚えておいて得したコマンド":http://sh4869.hatenablog.com/entry/2014/04/26/002312|
+|147|04/26(土)|@sbwyhs|"Vimで女子力を高める":http://rinx.tk/blog/2014/04/26/vac2013-147/#.U10cP2t_ukA|
+|148|04/27(日)|@manga_osyo|"Vim 7.4.260 から g: から始まる関数名がエラーになるようになりました":http://d.hatena.ne.jp/osyo-manga/20140427/1398610934|
+|149|04/28(月)|@tek_koc|"VimでPHPの補完にスニペットを使ったら捗った件":http://qiita.com/tekkoc/items/8897cdf378305c4e547d|
+|150|04/29(火)|@manga_osyo|"Vim で任意の列をハイライトする":http://d.hatena.ne.jp/osyo-manga/20140429/1398782989|
+|151|04/30(水)|@||
+|152|05/01(木)|@||
+|153|05/02(金)|@||
+|154|05/03(土)|@||
+|155|05/04(日)|@||
+|156|05/05(月)|@||
+|157|05/06(火)|@||
+|158|05/07(水)|@||
+|159|05/08(木)|@||
+|160|05/09(金)|@||
+|161|05/10(土)|@||
+|162|05/11(日)|@||
+|163|05/12(月)|@manga_osyo|":NeoBundle 'Shougo/neobundle.vim' してはいけない":http://d.hatena.ne.jp/osyo-manga/20140512/1399901014|
+|164|05/13(火)|@lisia|"Vimでカラーコードをインクリメントする":http://lisia.hatenadiary.jp/entry/2014/05/13/203612|
+|165|05/14(水)|@supermomonga|"Vimで離れた複数の行に対する一括操作を行う":https://gist.github.com/supermomonga/8887bbac7cdb22ff0027|
+|166|05/15(木)|@syui|"Vimのマーク機能、使い方まとめ":http://qiita.com/syui/items/442fd0905a1f2005c10e|
+|167|05/16(金)|@manga_osyo|"任意の正規表現パターンにマッチする textobj を書いた":http://d.hatena.ne.jp/osyo-manga/20140516/1400251726|
+|168|05/17(土)|@rksz|"Vimの生産性を一撃で高めるシンプルなテクニック":http://www.rickynews.com/blog/2014/05/14/vim-speedup-strategy/|
+|169|05/18(日)|@KSuzukiii|"Vim Advent Calendarで見つめなおす .vimrc":http://ksuzukiii.hatenablog.com/entry/2014/05/18/000522|
+|170|05/19(月)|@manga_osyo|"vim-operator-alignta つくった":http://d.hatena.ne.jp/osyo-manga/20140519/1400511628|
+|171|05/20(火)|@deris0126|"ぼくのかんがえたさいしょうのvimrc":http://deris.hatenablog.jp/entry/2014/05/20/235807|
+|172|05/21(水)|@iyuuya|"Osaka.vim - 第一話 始動 -":http://d.hatena.ne.jp/iyuuya/20140521/1400667042|
+|173|05/22(木)|@supermomonga|"TokyoVim #19 に行ってきた":http://blog.supermomonga.com/articles/vim/tokyovim-19-report.html|
+|174|05/23(金)|@lisia|"listcharsでドキッとした話":http://lisia.hatenadiary.jp/entry/2014/05/23/231418|
+|175|05/24(土)|@manga_osyo|"横幅が統一ではない矩形をヤンクしたり削除したりするプラグインをつくった":http://d.hatena.ne.jp/osyo-manga/20140524/1400943249|
+|176|05/25(日)|@p_ck_|":help する Vim の operator かいた":http://pocke.hatenablog.com/entry/2014/05/25/202957|
+|177|05/26(月)|@manga_osyo|"Web から素早く :help するサイトつくった":http://d.hatena.ne.jp/osyo-manga/20140526/1401115510|
+|178|05/27(火)|@s_of_p|"vimrc 読書会の学習効率を上げるある 1 つの Tips":http://qiita.com/s_of_p/items/36b43a721cce67bb69b7|
+|179|05/28(水)|@manga_osyo|"任意のコマンドを実行する operator をつくった":http://d.hatena.ne.jp/osyo-manga/20140528/1401287116|
+|180|05/29(木)|@pebble8888|"VimでVisualLine選択したテキスト内から/**/,//のコメント部分のみを削除する":http://pebble8888.hatenablog.com/entry/2014/05/29/000412|
 
 
-h2. コメントのテンプレです。
+h1. コメントのテンプレです。
 
 notextile. 【n日目】&lt;a href=&quot;記事のURL&quot;&gt;記事タイトル&lt;/a&gt;
